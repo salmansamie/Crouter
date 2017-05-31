@@ -1,0 +1,15 @@
+L2srcAddr, L2destAddr, L3srcAddr, L3DestAddr, Priority, Payload
+A, R, 1, 10, 1, packet1
+A, R, 2, 11, 1, packet2
+A, R, 2, 12, 1, packet3
+A, R, 3, 6, 1, packet4
+B, R, 4, 7, 1, packet5
+B, R, 5, 8, 1, packet6
+B, R, 6, 9, 1, packet7
+C, R, 7, 1, 1, packet8
+C, R, 8, 2, 1, packet9
+C, R, 19, 3, 1, packet10
+C, R, 19, 3, 1, packet11
+D, R, 10, 4, 1, packet12
+D, R, 11, 5, 1, packet13
+D, R, 12, 6, 1, packet14
